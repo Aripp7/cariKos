@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CariKOS!</string>
+    <string-array name="kampus">
+        <item>Pilih Lokasi Kampus</item>
+        <item>Unand</item>
+        <item>UNP</item>
+        <item>IAIN Imam Bonjol</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
